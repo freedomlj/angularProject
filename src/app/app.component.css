@@ -1,0 +1,15 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.mian{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
